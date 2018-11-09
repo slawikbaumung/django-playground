@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/anaconda3/envs/myDjangoEnv/bin/python",
+    "python.linting.pylintEnabled": true
+}
